@@ -1,0 +1,1 @@
+Machine Learning algorithms implemented from scratch and using scikit-learn. Includes supervised (regression, classification, SVM, decision trees) and unsupervised (clustering, PCA) models with evaluation metrics and visualizations.
